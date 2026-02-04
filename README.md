@@ -16,7 +16,7 @@ This project generates a synthetic facial image dataset with different emotions 
 - Ethnicity: Latino, White, Black, Middle Eastern, Indian, Asian  
 - Age: Young Adult, Middle Aged  
 - Camera Angle & Lighting (random)
-- 
+
 ## ⚙️ Requirements
 - Python 3.9+
 - CUDA-enabled NVIDIA GPU
