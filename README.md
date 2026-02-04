@@ -1,7 +1,7 @@
 # Synthetic Face Dataset Generation
 This project generates a synthetic facial image dataset with different emotions and attributes using Stable Diffusion models, suitable for computer vision and emotion recognition research.
 
-## 🔍 Demo Output
+## Output
 
 ![Demo Image](image.png)
 
