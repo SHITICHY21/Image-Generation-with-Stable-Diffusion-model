@@ -1,6 +1,10 @@
 # Synthetic Face Dataset Generation
 This project generates a synthetic facial image dataset with different emotions and attributes using Stable Diffusion models, suitable for computer vision and emotion recognition research.
 
+## 🔍 Demo Output
+
+![Demo Image](image.png)
+
 ## 🔧 Models Used
 - `dreamlike-art/dreamlike-diffusion-1.0`
 - `runwayml/stable-diffusion-v1-5`
